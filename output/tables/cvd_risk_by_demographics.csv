@@ -1,0 +1,21 @@
+"age_group","gender","cvd_risk_status","数量","比例"
+"18-34","Female","Low Risk",635,75.2
+"18-34","Female","High Risk",209,24.8
+"18-34","Male","Low Risk",605,76.2
+"18-34","Male","High Risk",189,23.8
+"35-49","Female","Low Risk",406,61.4
+"35-49","Female","High Risk",255,38.6
+"35-49","Male","Low Risk",330,58.1
+"35-49","Male","High Risk",238,41.9
+"50-64","Female","Low Risk",387,47.4
+"50-64","Female","High Risk",430,52.6
+"50-64","Male","Low Risk",438,57.3
+"50-64","Male","High Risk",327,42.7
+"65+","Female","Low Risk",394,56.8
+"65+","Female","High Risk",300,43.2
+"65+","Male","Low Risk",446,62.6
+"65+","Male","High Risk",267,37.4
+NA,"Female","Low Risk",1606,95.5
+NA,"Female","High Risk",75,4.5
+NA,"Male","Low Risk",1678,97.7
+NA,"Male","High Risk",39,2.3

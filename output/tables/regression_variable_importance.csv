@@ -1,0 +1,16 @@
+"Feature","Importance"
+"(Intercept)",99.9917131474105
+"bmi",27.9173219504132
+"bmi_squared",10.7957819209503
+"age",4.84703668974827
+"gender_Male",2.27961418110055
+"sleep_bmi_interaction",2.24936395309176
+"sleep_duration",2.12761882348831
+"age_bmi_interaction",1.77488268850843
+"education_X4",0.901947967998861
+"smoking_binary_Never.smoker",0.837261374923217
+"education_X3",0.59172054345771
+"education_X5",0.587140241281725
+"age_squared",0.585370501168246
+"age_sleep_interaction",0.483747107185229
+"sleep_quality_score",0.471447385885615

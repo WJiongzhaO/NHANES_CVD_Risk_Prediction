@@ -1,0 +1,5 @@
+"risk_stratum","样本数","患病数","患病率","平均年龄","平均BMI","平均代谢综合征组分"
+"Older normal risk",1151,215,18.7,70.3,25.4,1.6
+"Older obese high risk",788,296,37.6,68.8,35.5,2.3
+"Younger normal risk",2027,151,7.4,37.5,24.6,0.9
+"Younger obese risk",1409,425,30.2,39.6,36.7,2.1

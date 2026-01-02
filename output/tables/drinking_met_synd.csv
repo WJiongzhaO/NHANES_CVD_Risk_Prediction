@@ -1,0 +1,6 @@
+"alcohol_category","样本数","患病数","患病率"
+"Heavy drinker (>2/day)",1108,205,18.5
+"Light drinker (≤1/day)",1289,254,19.7
+"Moderate drinker (1-2/day)",1027,196,19.1
+"Non-drinker",566,100,17.7
+"Unknown",1385,332,24
