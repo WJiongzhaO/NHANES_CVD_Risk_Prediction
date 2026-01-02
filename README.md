@@ -103,8 +103,8 @@ shiny::runApp("scripts/06_shiny_app.R")
 
 ---
 
-**项目状态**：进行中  
-**最后更新**：2024年
+**项目状态**：结束  
+**最后更新**：2025年
 
 =======
 # NHANES_CVD_Risk_Prediction
